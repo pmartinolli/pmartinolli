@@ -8,7 +8,7 @@
 - Bonnes pratiques de [sauvegarde](https://github.com/pmartinolli/TM-Saveorcry) pour sa recherche
 - [Bloguer](https://github.com/pmartinolli/TM-incubablog) sur sa recherche
 
-### Recherche amateur / amateur research : 
+### Recherche amateur / Amateur research : 
 - _[On the Shoulders of Cloud Giants](https://github.com/pmartinolli/OtSoCG): citation practices in the TTRPG publishing industry_
 - _[TTTTRPG](https://github.com/pmartinolli/TTTTRPG) : Timeline Tree of Tabletop Role-Playing Games, celebrating more than 40 years of game design innovations_
 

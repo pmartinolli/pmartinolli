@@ -1,4 +1,13 @@
-### Hi there 👋
+### Mes projets / My projects
+
+Les plus populaires :
+- Évaluer ses sources avec le [foutaisomètre](https://github.com/pmartinolli/TM-bullshitometer) (traduit en anglais par Jennifer AW Stubbs)
+- Choisir une [licence CC](https://github.com/pmartinolli/MonTPenCC) pour un travail universitaire
+- Dans [quelle revue](https://github.com/pmartinolli/where2publish) diffuser ma recherche ?
+- [Feuille de personnage](https://github.com/pmartinolli/TM_SchoCharSheet) pour s'autoévaluation et mesurer sa progression dans un atelier (traduit en anglais par Jennifer AW Stubbs)
+- Bâtir un [thésaurus personnel](https://github.com/pmartinolli/TM-MyThesaurus)
+- Bonnes pratiques de [sauvegarde](https://github.com/pmartinolli/TM-Saveorcry) pour sa recherche
+- [Bloguer](https://github.com/pmartinolli/TM-incubablog) sur sa recherche
 
 <!--
 **pmartinolli/pmartinolli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

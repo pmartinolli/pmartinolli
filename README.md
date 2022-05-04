@@ -11,6 +11,7 @@
 ### Recherche amateur / Amateur research : 
 - _[On the Shoulders of Cloud Giants](https://github.com/pmartinolli/OtSoCG): citation practices in the TTRPG publishing industry_
 - _[TTTTRPG](https://github.com/pmartinolli/TTTTRPG) : Timeline Tree of Tabletop Role-Playing Games, celebrating more than 40 years of game design innovations_
+- [AcademicTTRPG](https://github.com/pmartinolli/academicTTRPG/blob/master/Ch6.Rudolf.Geyer.Catalog/index.html)
 
 
 <!--

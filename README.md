@@ -2,6 +2,7 @@
 
 - Évaluer ses sources avec le [foutaisomètre](https://github.com/pmartinolli/TM-bullshitometer) (translated in English: _Bullshit-o-meter_)
 - Choisir une [licence CC](https://github.com/pmartinolli/MonTPenCC) pour un travail universitaire
+- [Se faire une tête sur un sujet](https://github.com/pmartinolli/SeFaireUneTete) : Comment cerner l'essentiel de la conversation scientifique et repérer les courants de pensée dominants d’une discipline sur un sujet que l'on ne maîtrise pas ?
 - Dans [quelle revue](https://github.com/pmartinolli/where2publish) diffuser ma recherche ?
 - [Feuille de personnage](https://github.com/pmartinolli/TM_SchoCharSheet) pour s'autoévaluation et mesurer sa progression dans un atelier (translated in English: _Scholarly Character Sheet_)
 - Bâtir un [thésaurus personnel](https://github.com/pmartinolli/TM-MyThesaurus)

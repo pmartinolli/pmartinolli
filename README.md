@@ -1,5 +1,6 @@
 ### Mes projets les plus populaires / My projects :
 
+- [Manuel pratique de recherche documentaire](https://pmartinolli.github.io/QMpRD/) en libre accès.
 - Évaluer ses sources avec le [foutaisomètre](https://github.com/pmartinolli/TM-bullshitometer) (translated in English: _Bullshit-o-meter_)
 - Choisir une [licence CC](https://github.com/pmartinolli/MonTPenCC) pour un travail universitaire
 - [Se faire une tête sur un sujet](https://github.com/pmartinolli/SeFaireUneTete) : Comment cerner l'essentiel de la conversation scientifique et repérer les courants de pensée dominants d’une discipline sur un sujet que l'on ne maîtrise pas ?
